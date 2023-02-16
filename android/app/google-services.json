@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "92466317020",
+    "project_id": "muon-phong-khoa",
+    "storage_bucket": "muon-phong-khoa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92466317020:android:65c51497747727e2919619",
+        "android_client_info": {
+          "package_name": "com.example.flutter_muon_phong_khoa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92466317020-1dsimqq3ui8tuhkpt2pivbg9dn77uuoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgq19_MmvIuR-432hI3R4-ZIfBT3qttoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92466317020-1dsimqq3ui8tuhkpt2pivbg9dn77uuoq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
